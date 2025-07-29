@@ -38,11 +38,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Woods",
+      "name": "Woods (M)",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Woods\"}",
+      "person_id": "~{\"name\": \"Woods (M)\"}",
       "organization_id": null
     }
   ],
@@ -89,6 +89,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-07-28T01:33:12+00:00",
-  "_id": "d30b0486-6b52-11f0-9fe7-7212d278aeed"
+  "scraped_at": "2025-07-29T01:33:53+00:00",
+  "_id": "160a8d32-6c1c-11f0-a5dc-a236a7baef1d"
 }
