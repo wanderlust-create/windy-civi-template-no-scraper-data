@@ -252,6 +252,17 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Enacted",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-RBSLQMM-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
@@ -301,6 +312,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-11-25T01:32:26+00:00",
-  "_id": "999fdd2a-c99e-11f0-b1a1-eaae11e1c236"
+  "scraped_at": "2025-11-26T01:32:30+00:00",
+  "_id": "c636c12c-ca67-11f0-b16f-0a5b22a47193"
 }
