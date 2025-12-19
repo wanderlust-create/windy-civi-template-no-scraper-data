@@ -143,7 +143,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB117-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB117-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -154,7 +154,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB117-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB117-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -178,7 +178,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-84W7EF2-3.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-84W7EF2-3.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -189,7 +189,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-84W7EF2-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-84W7EF2-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -200,7 +200,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-84W7EF2-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-84W7EF2-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -224,6 +224,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:32:49+00:00",
-  "_id": "cfded244-cf1e-11f0-9896-8ea1fe5ecbc3"
+  "scraped_at": "2025-12-19T01:33:09+00:00",
+  "_id": "acf48260-dc7a-11f0-a0b9-6afbb3a0410b"
 }

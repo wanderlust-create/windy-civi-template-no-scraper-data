@@ -51,7 +51,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SR15-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SR15-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -76,6 +76,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:33:21+00:00",
-  "_id": "e34022ca-cf1e-11f0-9896-8ea1fe5ecbc3"
+  "scraped_at": "2025-12-19T01:33:35+00:00",
+  "_id": "bc8f3be8-dc7a-11f0-a0b9-6afbb3a0410b"
 }

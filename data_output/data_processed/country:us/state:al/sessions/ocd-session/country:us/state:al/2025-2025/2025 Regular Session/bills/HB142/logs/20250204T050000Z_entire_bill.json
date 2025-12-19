@@ -91,7 +91,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB142-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB142-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -126,7 +126,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-F92UC5D-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-F92UC5D-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -137,7 +137,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-F92UC5D-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-F92UC5D-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -161,6 +161,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:32:17+00:00",
-  "_id": "bcff4fe6-cf1e-11f0-9896-8ea1fe5ecbc3"
+  "scraped_at": "2025-12-19T01:32:43+00:00",
+  "_id": "9db6d64a-dc7a-11f0-a0b9-6afbb3a0410b"
 }
