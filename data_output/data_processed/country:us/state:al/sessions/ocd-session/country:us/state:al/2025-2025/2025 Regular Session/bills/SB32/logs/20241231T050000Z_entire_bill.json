@@ -174,7 +174,7 @@
       "note": "Reported Out of Committee Second House",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XDDKPE7-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XDDKPE7-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -185,7 +185,7 @@
       "note": "Judiciary 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/5VVEB6M-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/5VVEB6M-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -196,7 +196,7 @@
       "note": "Elliott motion to Adopt - Adopted Roll Call 98",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/YL5W666-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/YL5W666-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -255,6 +255,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:06+00:00",
-  "_id": "aae5e612-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:54+00:00",
+  "_id": "95a86094-dd4d-11f0-9f7f-e2d5f660421b"
 }

@@ -215,7 +215,7 @@
       "note": "Reported Out of Committee Second House",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/KH26PUA-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/KH26PUA-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -226,7 +226,7 @@
       "note": "Economic Development and Tourism 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FK1E8CD-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FK1E8CD-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -237,7 +237,7 @@
       "note": "Singleton motion to Adopt - Adopted Roll Call 507",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XDVBD7Z-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XDVBD7Z-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -285,6 +285,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:08+00:00",
-  "_id": "ac551630-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:59+00:00",
+  "_id": "98d44c56-dd4d-11f0-9f7f-e2d5f660421b"
 }

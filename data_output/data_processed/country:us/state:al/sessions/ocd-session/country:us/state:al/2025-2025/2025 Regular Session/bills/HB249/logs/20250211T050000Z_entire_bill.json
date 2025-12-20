@@ -93,7 +93,7 @@
       "note": "Reported Out of Committee House of Origin",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/CXXZSWQ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/CXXZSWQ-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -104,7 +104,7 @@
       "note": "Agriculture and Forestry 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FKAMTCD-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FKAMTCD-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -152,6 +152,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:48+00:00",
-  "_id": "a070479a-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:14+00:00",
+  "_id": "7e2530a0-dd4d-11f0-9f7f-e2d5f660421b"
 }

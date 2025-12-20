@@ -158,7 +158,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 885",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/5VU8763-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/5VU8763-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -206,6 +206,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:45+00:00",
-  "_id": "9eab0850-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:07+00:00",
+  "_id": "79e0f9d4-dd4d-11f0-9f7f-e2d5f660421b"
 }

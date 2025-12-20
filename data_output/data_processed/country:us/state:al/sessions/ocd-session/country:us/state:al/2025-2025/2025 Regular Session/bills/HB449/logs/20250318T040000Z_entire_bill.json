@@ -172,7 +172,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1082",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/YMP3K6N-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/YMP3K6N-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -183,7 +183,7 @@
       "note": "Judiciary 2nd Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/CXPS5WW-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/CXPS5WW-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -194,7 +194,7 @@
       "note": "Judiciary 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/PSIH4GR-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/PSIH4GR-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -253,6 +253,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:57+00:00",
-  "_id": "a58824be-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:33+00:00",
+  "_id": "89628b2a-dd4d-11f0-9f7f-e2d5f660421b"
 }

@@ -93,7 +93,7 @@
       "note": "Agriculture, Conservation, and Forestry 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/V7UJJVV-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/V7UJJVV-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -141,6 +141,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:16+00:00",
-  "_id": "b14106a4-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:43:19+00:00",
+  "_id": "a4a00246-dd4d-11f0-9f7f-e2d5f660421b"
 }

@@ -240,7 +240,7 @@
       "note": "Whitt motion to Table - Adopted Roll Call 1178",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/KH2ERUU-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/KH2ERUU-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -251,7 +251,7 @@
       "note": "Jones motion to Adopt - Adopted Roll Call 725",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/G3NNFC2-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/G3NNFC2-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -321,6 +321,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:17+00:00",
-  "_id": "b1b11e94-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:43:20+00:00",
+  "_id": "a5955d5e-dd4d-11f0-9f7f-e2d5f660421b"
 }

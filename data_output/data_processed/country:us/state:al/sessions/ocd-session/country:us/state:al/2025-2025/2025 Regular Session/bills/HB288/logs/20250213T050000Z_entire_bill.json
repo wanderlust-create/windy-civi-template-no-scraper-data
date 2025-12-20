@@ -260,7 +260,7 @@
       "note": "Chesteen motion to Adopt - Adopted Roll Call 981",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/DG7L2HT-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/DG7L2HT-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -271,7 +271,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 601",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/V7FSFPP-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/V7FSFPP-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -341,6 +341,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:50+00:00",
-  "_id": "a17529ee-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:18+00:00",
+  "_id": "80649a36-dd4d-11f0-9f7f-e2d5f660421b"
 }

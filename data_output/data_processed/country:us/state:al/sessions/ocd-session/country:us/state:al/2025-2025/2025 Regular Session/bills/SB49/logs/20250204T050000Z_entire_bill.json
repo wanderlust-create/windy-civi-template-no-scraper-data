@@ -100,7 +100,7 @@
       "note": "State Governmental Affairs 2nd Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/ZQ7HDRR-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/ZQ7HDRR-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -111,7 +111,7 @@
       "note": "State Governmental Affairs 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/167S33L-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/167S33L-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -159,6 +159,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:06+00:00",
-  "_id": "ab4a60a6-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:55+00:00",
+  "_id": "967d23ce-dd4d-11f0-9f7f-e2d5f660421b"
 }

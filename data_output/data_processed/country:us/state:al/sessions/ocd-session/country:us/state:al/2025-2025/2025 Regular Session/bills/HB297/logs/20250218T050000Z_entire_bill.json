@@ -167,7 +167,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1091",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/843VRHH-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/843VRHH-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -178,7 +178,7 @@
       "note": "Reported Out of Committee House of Origin with Engrossed Committee Reported Substitute",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SLBX955-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SLBX955-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -230,6 +230,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:50+00:00",
-  "_id": "a1a85f1c-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:19+00:00",
+  "_id": "80d2d348-dd4d-11f0-9f7f-e2d5f660421b"
 }

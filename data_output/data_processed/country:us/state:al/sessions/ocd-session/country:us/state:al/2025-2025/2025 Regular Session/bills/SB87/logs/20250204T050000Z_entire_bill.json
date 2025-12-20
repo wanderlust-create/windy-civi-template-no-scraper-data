@@ -188,7 +188,7 @@
       "note": "Orr motion to Adopt - Adopted Roll Call 517",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/EJQBA92-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/EJQBA92-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -199,7 +199,7 @@
       "note": "Orr motion to Adopt - Adopted Roll Call 516",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/NRRE98T-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/NRRE98T-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -258,6 +258,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:08+00:00",
-  "_id": "ac4224d0-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:59+00:00",
+  "_id": "98afd952-dd4d-11f0-9f7f-e2d5f660421b"
 }

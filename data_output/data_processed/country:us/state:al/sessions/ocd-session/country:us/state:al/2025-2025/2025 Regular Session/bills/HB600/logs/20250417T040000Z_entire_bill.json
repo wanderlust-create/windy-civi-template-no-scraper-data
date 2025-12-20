@@ -231,7 +231,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 996",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/KHYCD5A-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/KHYCD5A-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -242,7 +242,7 @@
       "note": "Ways and Means Education 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/7BQKJ22-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/7BQKJ22-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -312,6 +312,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:03+00:00",
-  "_id": "a9869712-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:48+00:00",
+  "_id": "92620e9e-dd4d-11f0-9f7f-e2d5f660421b"
 }

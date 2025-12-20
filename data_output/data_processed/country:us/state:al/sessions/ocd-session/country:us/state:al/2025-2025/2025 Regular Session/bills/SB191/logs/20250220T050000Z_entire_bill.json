@@ -106,7 +106,7 @@
       "note": "Healthcare 1st Substitute",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/TBBVY55-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/TBBVY55-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -154,6 +154,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:12+00:00",
-  "_id": "aec6b5f4-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:43:09+00:00",
+  "_id": "9e801d06-dd4d-11f0-9f7f-e2d5f660421b"
 }

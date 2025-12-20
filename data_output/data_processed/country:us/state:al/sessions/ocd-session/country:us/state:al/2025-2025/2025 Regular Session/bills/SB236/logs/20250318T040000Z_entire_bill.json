@@ -253,7 +253,7 @@
       "note": "Barfoot motion to Adopt - Adopted Roll Call 825",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/5VRRT66-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/5VRRT66-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -264,7 +264,7 @@
       "note": "Barfoot motion to Adopt - Adopted Roll Call 824",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/PSI4IER-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/PSI4IER-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -334,6 +334,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:14+00:00",
-  "_id": "afd95758-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:43:12+00:00",
+  "_id": "a0d11524-dd4d-11f0-9f7f-e2d5f660421b"
 }

@@ -261,7 +261,7 @@
       "note": "Roberts motion to Adopt - Adopted Roll Call 163",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/JPTM2FY-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/JPTM2FY-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -272,7 +272,7 @@
       "note": "Roberts motion to Adopt - Adopted Roll Call 155",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XLRMZZE-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XLRMZZE-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -342,6 +342,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:06+00:00",
-  "_id": "ab66140e-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:56+00:00",
+  "_id": "96bb01a8-dd4d-11f0-9f7f-e2d5f660421b"
 }

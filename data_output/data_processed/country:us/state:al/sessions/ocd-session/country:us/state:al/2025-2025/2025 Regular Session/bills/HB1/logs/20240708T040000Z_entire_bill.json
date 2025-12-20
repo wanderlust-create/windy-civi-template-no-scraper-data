@@ -279,7 +279,7 @@
       "note": "Sessions motion to Adopt - Adopted Roll Call 1028",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/6YAUGZ3-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/6YAUGZ3-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -290,7 +290,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 572",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/EJJNGCC-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/EJJNGCC-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -301,7 +301,7 @@
       "note": "Brown motion to Table - Adopted Roll Call 571",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/QN26J55-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/QN26J55-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -371,6 +371,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:37+00:00",
-  "_id": "9a114214-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:41:51+00:00",
+  "_id": "6fda60d8-dd4d-11f0-9f7f-e2d5f660421b"
 }

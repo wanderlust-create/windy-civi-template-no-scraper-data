@@ -147,7 +147,7 @@
       "note": "Judiciary  Engrossed Substitute Offered",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/DG7RYNH-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/DG7RYNH-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -158,7 +158,7 @@
       "note": "Judiciary 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XDVCYZZ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XDVCYZZ-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -217,6 +217,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:10+00:00",
-  "_id": "ad635a50-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:43:03+00:00",
+  "_id": "9b20c598-dd4d-11f0-9f7f-e2d5f660421b"
 }

@@ -99,7 +99,7 @@
       "note": "Reported Out of Committee House of Origin",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/MS43IWW-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/MS43IWW-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,7 +110,7 @@
       "note": "Military and Veterans Affairs 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/BYMI74J-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/BYMI74J-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -158,6 +158,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:45+00:00",
-  "_id": "9eb6be66-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:07+00:00",
+  "_id": "79f959ac-dd4d-11f0-9f7f-e2d5f660421b"
 }

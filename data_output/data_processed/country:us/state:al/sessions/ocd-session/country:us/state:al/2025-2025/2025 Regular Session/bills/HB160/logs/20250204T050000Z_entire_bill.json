@@ -172,7 +172,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 50",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/PVS6ERR-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/PVS6ERR-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -183,7 +183,7 @@
       "note": "State Government 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XNTJZ7Z-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XNTJZ7Z-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -242,6 +242,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:44+00:00",
-  "_id": "9e3aeef8-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:06+00:00",
+  "_id": "7904f4a2-dd4d-11f0-9f7f-e2d5f660421b"
 }

@@ -174,7 +174,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 168",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/V2ZUPVL-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/V2ZUPVL-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -185,7 +185,7 @@
       "note": "Ports, Waterways & Intermodal Transit 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/MUAYHW1-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/MUAYHW1-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -244,6 +244,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:41+00:00",
-  "_id": "9c57b760-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:41:59+00:00",
+  "_id": "74dc64c8-dd4d-11f0-9f7f-e2d5f660421b"
 }

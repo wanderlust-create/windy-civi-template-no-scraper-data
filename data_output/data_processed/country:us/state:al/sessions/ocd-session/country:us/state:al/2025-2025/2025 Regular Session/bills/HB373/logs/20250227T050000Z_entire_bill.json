@@ -99,7 +99,7 @@
       "note": "Reported Out of Committee House of Origin",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/G38QPC6-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/G38QPC6-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,7 +110,7 @@
       "note": "Economic Development and Tourism 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/L5VM6YY-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/L5VM6YY-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -158,6 +158,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:53+00:00",
-  "_id": "a3a6e70c-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:26+00:00",
+  "_id": "8563d7fe-dd4d-11f0-9f7f-e2d5f660421b"
 }

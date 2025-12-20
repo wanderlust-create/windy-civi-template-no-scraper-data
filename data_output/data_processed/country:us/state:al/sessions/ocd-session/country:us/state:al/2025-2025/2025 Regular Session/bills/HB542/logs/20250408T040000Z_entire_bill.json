@@ -238,7 +238,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 939",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XDFPU77-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XDFPU77-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -249,7 +249,7 @@
       "note": "Ways and Means General Fund 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/BYCUC44-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/BYCUC44-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -319,6 +319,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:33:01+00:00",
-  "_id": "a81f784e-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:42:42+00:00",
+  "_id": "8ed16180-dd4d-11f0-9f7f-e2d5f660421b"
 }

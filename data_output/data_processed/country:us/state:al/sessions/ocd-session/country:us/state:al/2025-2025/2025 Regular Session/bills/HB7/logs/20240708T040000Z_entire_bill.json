@@ -213,11 +213,11 @@
       "note": "Judiciary 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/114PXLZ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/114PXLZ-1.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/CXPEAQJ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/CXPEAQJ-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -228,7 +228,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 882",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/L5VB4AW-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/L5VB4AW-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -239,7 +239,7 @@
       "note": "Reported Out of Committee House of Origin",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/4U47JRR-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/4U47JRR-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -250,7 +250,7 @@
       "note": "Public Safety and Homeland Security 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FKAHJ55-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FKAHJ55-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -324,6 +324,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-19T01:32:38+00:00",
-  "_id": "9a45dbdc-dc7a-11f0-a0b9-6afbb3a0410b"
+  "scraped_at": "2025-12-20T02:41:51+00:00",
+  "_id": "7049dac6-dd4d-11f0-9f7f-e2d5f660421b"
 }
